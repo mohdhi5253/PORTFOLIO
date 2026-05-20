@@ -36,7 +36,6 @@ This portfolio showcases my projects, skills, education, and contact information
 
 ## 📂 Project Structure
 
-```bash
 portfolio/
 │
 ├── index.html
@@ -45,6 +44,8 @@ portfolio/
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
+🔗 https://mohdhi5253.github.io/PORTFOLIO/
 
-https://mohdhi5253.github.io/PORTFOLIO/
+
+
